@@ -23,7 +23,7 @@ The Sorting Visualizer is a dynamic web-based application that provides a visual
 
 - HTML5
 - CSS3
-- JavaScript (ES6+)
+- JavaScript 
 
 ## How It Works
 
